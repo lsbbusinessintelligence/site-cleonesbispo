@@ -7,7 +7,7 @@ const Footer = () => (
         <div>
           <div className="mb-4">
             <img
-              src="/images/cleonesbispo/CLEONESBISPO-LOGO02.png"
+              src="/images/cleonesbispo/CLEONESBISPO-LOGO01.jpeg"
               alt="CBS Encanamentos Hidraulicos"
               className="h-12 w-auto object-contain mb-3"
               onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}

@@ -15,16 +15,22 @@ const services = [
     image: "/images/cleonesbispo/CLEONESBISPO-FOTOSITE02.jpeg",
   },
   {
-    icon: AlertCircle,
-    title: "Desentupimento em Geral",
-    description: "Pias, ralos, vasos sanitarios e redes de esgoto com eficiencia.",
-    image: null,
-  },
-  {
     icon: Package,
     title: "Limpeza de Caixas d'Agua e Tanques",
     description: "Higienizacao profissional para garantir a qualidade da sua agua.",
     image: "/images/cleonesbispo/CLEONESBISPO-FOTOSITE03.jpeg",
+  },
+  {
+    icon: GaugeCircle,
+    title: "Dimensionamento de Tubulacao",
+    description: "Calculos tecnicos para pressao e vazao ideais no sistema hidraulico.",
+    image: "/images/cleonesbispo/CLEONESBISPO-FOTOSITE04.jpeg",
+  },
+  {
+    icon: AlertCircle,
+    title: "Desentupimento em Geral",
+    description: "Pias, ralos, vasos sanitarios e redes de esgoto com eficiencia.",
+    image: null,
   },
   {
     icon: Settings,
@@ -37,12 +43,6 @@ const services = [
     title: "Mudanca de Local de Hidrometro",
     description: "Remanejamento tecnico conforme as normas vigentes.",
     image: null,
-  },
-  {
-    icon: GaugeCircle,
-    title: "Dimensionamento de Tubulacao",
-    description: "Calculos tecnicos para pressao e vazao ideais no sistema hidraulico.",
-    image: "/images/cleonesbispo/CLEONESBISPO-FOTOSITE04.jpeg",
   },
 ];
 
