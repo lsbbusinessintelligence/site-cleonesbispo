@@ -126,7 +126,7 @@ const HeroSection = () => (
           <div className="bg-gradient-to-br from-slate-100 to-blue-100 rounded-3xl shadow-2xl shadow-blue-900/40 p-6 max-w-sm w-full border border-blue-200/50">
             <div className="relative overflow-hidden rounded-2xl bg-white ring-4 ring-cyan-300/30">
               <img
-                src="/images/avatar-encanador.png"
+                src="/images/cleonesbispo/CLEONESBISPO-AVATAR01.png"
                 alt="Cleones Bispo - Bombeiro Hidraulico"
                 className="w-full h-auto"
                 style={{ filter: "brightness(1.1) saturate(0.88)" }}
